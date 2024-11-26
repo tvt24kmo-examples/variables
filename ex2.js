@@ -9,7 +9,7 @@ console.log("The application is started");
 
 //usein callback funktiot kirjoitetaan ns. anonyymeinä
 //eli ilman nimeä
-
+//esimerkeissä käytetään tätä versiota
 setTimeout(function(){
     console.log("Demonstrating the callbacks");
 },2000);
